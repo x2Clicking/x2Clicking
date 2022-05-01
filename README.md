@@ -1,16 +1,18 @@
-### Hi there 👋
+### 📌 Hi there 👋, my nickname is **x2Clicking**
 
-<!--
-**x2Clicking/x2Clicking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github, I hope you find what you need and you like my profile...
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Python , Java , JavaScript 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥 My current operating systems
+
+📌 **Arch Linux**
+
+![](https://i.imgur.com/pID0BOh.png[/img])
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x2Clicking&theme=codeSTACKr&show_icons=true)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/x2Clicking)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/x2Clicking)  
+
+![Profile views](https://gpvc.arturio.dev/x2Clicking)  
